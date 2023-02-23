@@ -1,6 +1,10 @@
 # The TechWorld (holy-week-7770)
 ### Team Collaborated Project Completed in 6 days
 
+## Link
+* Deployed  https://techworld-tau.vercel.app/
+* 
+
 The TechWorld  is an details oriented website  that allows people to make decision before buying  electronic goods and services. Through this website, user can process orders, accept payments and logistics, and provide customer services.
 User Friendly UI .... 
 
@@ -19,10 +23,6 @@ User Friendly UI ....
 * Axios
 
 
-
-## Link
-* Deployed ...https://techworld-tau.vercel.app/
-* 
 ## Home
 ![Home](https://user-images.githubusercontent.com/107465630/214306318-0d37191d-645e-4ea9-a9a2-04211f06ec46.png)
 ![Footer](https://user-images.githubusercontent.com/107465630/214306681-8cd3f655-cba7-4417-b4cf-fa7f586d7d02.png)
